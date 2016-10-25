@@ -1,0 +1,6 @@
+framework module Pods_Dr00l {
+  umbrella header "Pods-Dr00l-umbrella.h"
+
+  export *
+  module * { export * }
+}
